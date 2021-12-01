@@ -87,6 +87,24 @@ const data = [
           Hodor hodor, HODOR hodor, hodor hodor?! Hodor! Hodor hodor, HODOR hodor, hodor hodor, hodor, hodor hodor. Hodor, hodor.
           Hodor. Hodor, hodor, hodor. Hodor hodor... Hodor hodor hodor?! Hodor, hodor... Hodor hodor HODOR hodor, hodor hodor. Hodor.`,
   },
+  {
+    title: "Top 7 Highest Paid Programming Languages 2021",
+    date: "Jan 1st, 2021",
+    firstParagraph: `According to analysts, there are more than 250 different programming languages in the world. Such a huge number of languages are associated with a variety of requirements for digital products in different industries. `,
+
+    secondParagraph: `It’s extremely easy to get lost in this diversity, especially if you’re choosing the language(s) to start an IT career. You can easily miscalculate and choose an unpopular or impractical programming language. So you probably want to (at least in the beginning) find a language that'll provide you with a stable job and a high salary. In this short article, I'm going to run through the top 7 programming languages that you can learn for a high-paying job. `,
+
+    thirdParagraph: `The first on our list is the programming language Scala, which mixes the aspects of object-oriented and functional programming while being a unique high-level language. At the same time, it’s extremely laconic and simple in communication, which makes it easy to start learning. For development, the JVM and JavaScript environment is used, which greatly simplifies the creation of high-performance digital solutions.`,
+  },
+  {
+    title: "My honest opinion on Tailwind CSS",
+    date: "Nov 25, 2021",
+    firstParagraph: `Let's say you have medium to a good experience in building websites with plain CSS, you will most likely know what you want to use. `,
+
+    secondParagraph: `For instance, when creating a header, all the styles are already in your head. You just need to type them out. `,
+
+    thirdParagraph: `Another big pro is that it makes things stricter. Their sizing, padding, margin are all proven numbers that work. So I don't have to go and think about what generic sizes might be needed.`,
+  },
 ];
 
 function articleMaker({
